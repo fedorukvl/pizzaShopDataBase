@@ -22,6 +22,7 @@
 		{
 			"id": "item1",
 			"isAvailable": true,
+			"isActive": false,
 			"name": "Нямушка",
 			"slogan": "Сказочное заморское явство",
 			"taste": "с фуа-гра",
@@ -44,6 +45,7 @@
 		{
 			"id": "item2",
 			"isAvailable": true,
+			"isActive": false,
 			"name": "Нямушка",
 			"slogan": "Сказочное заморское явство",
 			"taste": "с рыбой",
@@ -66,6 +68,7 @@
 		{
 			"id": "item3",
 			"isAvailable": false,
+			"isActive": false,
 			"name": "Нямушка",
 			"slogan": "Сказочное заморское явство",
 			"taste": "с курой",
