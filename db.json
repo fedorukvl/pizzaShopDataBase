@@ -18,6 +18,74 @@
 			]
 		}
 	],
+	"products": [
+		{
+			"id": "item1",
+			"isAvailable": true,
+			"name": "Нямушка",
+			"slogan": "Сказочное заморское явство",
+			"taste": "с фуа-гра",
+			"description": {
+				"portions": {
+					"text": "порций",
+					"value": 10
+				},
+				"bonus": {
+					"value": "",
+					"text": "мышь в подарок"
+				}
+			},
+			"weight": {
+				"value": "0,5",
+				"unitsOfMeasurement": "кг"
+			},
+			"footerText": "Печень утки разварная с артишоками."
+		},
+		{
+			"id": "item2",
+			"isAvailable": true,
+			"name": "Нямушка",
+			"slogan": "Сказочное заморское явство",
+			"taste": "с рыбой",
+			"description": {
+				"portions": {
+					"text": "порций",
+					"value": 40
+				},
+				"bonus": {
+					"value": "2",
+					"text": "мыши в подарок"
+				}
+			},
+			"weight": {
+				"value": "2",
+				"unitsOfMeasurement": "кг"
+			},
+			"footerText": "Головы щучьи с чесноком да свежайшая сёмгушка."
+		},
+		{
+			"id": "item3",
+			"isAvailable": false,
+			"name": "Нямушка",
+			"slogan": "Сказочное заморское явство",
+			"taste": "с курой",
+			"description": {
+				"portions": {
+					"text": "порций",
+					"value": 100
+				},
+				"bonus": {
+					"value": "5",
+					"text": "мышей в подарок"
+				}
+			},
+			"weight": {
+				"value": "5",
+				"unitsOfMeasurement": "кг"
+			},
+			"footerText": "Печалька, с курой закончился."
+		}
+	],
 	"pizzas": [
 		{
 			"id": 0,
